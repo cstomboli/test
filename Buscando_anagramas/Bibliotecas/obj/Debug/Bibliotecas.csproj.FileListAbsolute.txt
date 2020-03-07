@@ -1,0 +1,5 @@
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Bibliotecas\bin\Debug\Bibliotecas.dll
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Bibliotecas\bin\Debug\Bibliotecas.pdb
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Bibliotecas\obj\Debug\Bibliotecas.dll
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Bibliotecas\obj\Debug\Bibliotecas.pdb
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Bibliotecas\obj\Debug\Bibliotecas.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\bin\Debug\Buscando_anagramas.exe.config
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\bin\Debug\Buscando_anagramas.exe
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\bin\Debug\Buscando_anagramas.pdb
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\obj\Debug\Buscando_anagramas.csprojAssemblyReference.cache
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\obj\Debug\Buscando_anagramas.exe
+C:\Users\LENOVO X1carbon\Desktop\Practica Programacion\nuevo\Buscando_anagramas\Buscando_anagramas\obj\Debug\Buscando_anagramas.pdb
